@@ -43,21 +43,21 @@ For example, to use the Python app "Python Caesar Ciphering"
 in production of the Dockerized web app "Docker-Flask-Caesar-Cipher", 
 we use the following structure:
 
-10-Python-Caesar-Cipher
+10-Python-Caesar-Cipher (https://github.com/vi-u/10-Python-Caesar-Cipher)
 
-11-Flask-Template
+11-Flask-Template (https://github.com/vi-u/11-Flask-Template)
 
-12-Input-Flask-Form
+12-Input-Flask-Form (https://github.com/vi-u/12-Input-Flask-Form)
 
-13-Flask-Caesar-Cipher
+13-Flask-Caesar-Cipher (https://github.com/vi-u/13-Flask-Caesar-Cipher)
 
-14-Docker-Flask
+14-Docker-Flask (https://github.com/vi-u/14-Docker-Flask)
 
-15-Docker-Flask_Template
+15-Docker-Flask_Template (https://github.com/vi-u/15-Docker-Flask_Template)
 
-16-Docker-Flask-Caesar
+16-Docker-Flask-Caesar (https://github.com/vi-u/16-Docker-Flask-Caesar)
 
-17-Updating-Application
+17-Updating-Application (https://github.com/vi-u/17-Updating-Application)
 
         Looking forward to your highly appreciated submissions!
 
