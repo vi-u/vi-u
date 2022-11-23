@@ -44,7 +44,6 @@ in production of the Dockerized web app "Docker-Flask-Caesar-Cipher",
 we use the following structure:
 
 10-Python-Caesar-Cipher
-10-Python-Caesar-Cipher
 
 11-Flask-Template
 
@@ -52,11 +51,13 @@ we use the following structure:
 
 13-Flask-Caesar-Cipher
 
-14-
+14-Docker-Flask
 
-15-
+15-Docker-Flask_Template
 
-...16-Docker-Flask-Caesar
+16-Docker-Flask-Caesar
+
+17-Updating-Application
 
         Looking forward to your highly appreciated submissions!
 
