@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-    👋 Hi, I'm Vit Justinov @vi-u and it is "another try to make IT right!"
+    👋 Hi, I'm Vit Justinov "@vi-u" and 
+    it is "another try to make IT right!"
+    
     👀 I’m interested in cyber security and full-stack devops
     🌱 I’m currently teaching as I go
+    
     💞️ I’m looking to collaborate on cyber security devops
     📫 Please reach me on vit.us@hotmail.com
 
@@ -46,7 +49,11 @@ we use the following structure:
 
 12-Input-Flask-Form
 
-13-Flask-Caesar-Cipher...
+13-Flask-Caesar-Cipher
+
+14-
+
+15-
 
 ...16-Docker-Flask-Caesar
 
