@@ -22,13 +22,23 @@ Here are some ideas to get you started:
     💞️ I’m looking to collaborate on cyber security devops
     📫 Please reach me on vit.us@hotmail.com
 
-        In an attempt to make IT applications more structured, I have numbered the repositories with integers so that the concept development logic is easy to read and understand, and also debuggable.
+        In an attempt to make IT applications more structured, 
+        I have numbered the repositories with integers so that 
+        the concept development logic is easy to read and understand, 
+        and also debuggable.
 
-The proposed logic is based on block development. A project consists of repositories or blocks. Where each block is a repository containing the code of the required IT concept.
+The proposed logic is based on block development. 
+A project consists of repositories or blocks. 
+Where each block is a repository containing the code of the required IT concept.
 
-        Another suggestion is that the entire build of the project should be covered in decimal repositories, say the first one will be placed from 10 to 19, the second from 20 to 29.
+        Another suggestion is that the entire build of the project 
+        should be covered in decimal repositories, 
+        say the first one will be placed from 10 to 19, 
+        the second project will ocupy blocks from 20 to 29, etc.
 
-For example, to use the Python app "Python Caesar Ciphering" in production of the web app "Flask-Caesar-Cipher", we use the following structure:
+For example, to use the Python app "Python Caesar Ciphering" 
+in production of the Dockerized web app "Docker-Flask-Caesar-Cipher", 
+we use the following structure:
 
 10-Python-Caesar-Cipher
 
