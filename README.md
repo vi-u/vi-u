@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 💞️
 -->
 
 
-    👋 Hi, I'm Vit Justinov "@vi-u" and it is 
+    👋      Hi, I'm Vit Justinov "@vi-u" and it is 
     
-    "Another try to make IT right!"
+    ⚡ "Another try to make IT right!"
     
-    👀 I’m interested in cyber security and full-stack devops
+    👀      I’m interested in cyber security and full-stack devops
     🌱 I’m currently teaching as I go
     
-    💞️ I’m looking to collaborate on cyber security devops
+    👯      I’m looking to collaborate on cyber security devops
     📫 Please reach me on vit.us@hotmail.com
 
         In an attempt to make IT applications more structured, 
