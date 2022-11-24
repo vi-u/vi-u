@@ -60,8 +60,10 @@ we use the following structure:
 16-Docker-Flask-Caesar (https://github.com/vi-u/16-Docker-Flask-Caesar)
 
 17-Updating-Application (https://github.com/vi-u/17-Updating-Application)
-#including committing changes into new image vitjust/caesar17 
-#and pushing vitjust/caesar17 to Docker Hub (https://hub.docker.com/r/vitjust/caesar17)
+
+ #including committing changes into new image vitjust/caesar17 
+
+ #and pushing vitjust/caesar17 to Docker Hub (https://hub.docker.com/r/vitjust/caesar17)
 
         Looking forward to your highly appreciated submissions!
 
