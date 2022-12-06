@@ -59,7 +59,7 @@ we use the following structure:
 
 16-Docker-Flask-Caesar (https://github.com/vi-u/16-Docker-Flask-Caesar)
 
-17-Updating-Application (https://github.com/vi-u/17-Updating-Application)
+17-Updating-Application (https://github.com/vi-u/17-DockerHub-vitjust-Caesar17)
 
  #including committing changes into new image vitjust/caesar17 
 
